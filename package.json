@@ -1,0 +1,24 @@
+{
+  "name": "ethereum-event-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudonshore/ethereum-event-listener.git"
+  },
+  "keywords": [],
+  "author": "Sam Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudonshore/ethereum-event-listener/issues"
+  },
+  "homepage": "https://github.com/cloudonshore/ethereum-event-listener#readme",
+  "dependencies": {
+    "ethers": "^5.0.26",
+    "lodash": "^4.17.20"
+  }
+}
